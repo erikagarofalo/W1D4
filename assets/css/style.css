@@ -97,6 +97,15 @@ code {
   margin-bottom: 25px;
 }
 
+ul {
+  list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+  }
+}
+
 .first-article span,
 .format-article span {
   color: #a92c78;
